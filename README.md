@@ -4,6 +4,8 @@
 
 It is an app for meal recipes. The user can search the recipes by name or just use the recipes on our randomized recommendation. The user can also add the recipes he/ she likes to the favorite list (this is stored in local storage).
 
+This app is deployed using Netlify and you can view the app [HERE]([https://heroic-genie-af1afe.netlify.app/](https://meal-genie-project.netlify.app/)
+
 ## Technologies Used
 
 React, Git, and GitHub
